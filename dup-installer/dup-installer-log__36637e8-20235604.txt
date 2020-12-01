@@ -1,0 +1,6 @@
+
+INSTALLER ERROR:
+A wp-config.php already exists in this location.  This error prevents users from accidentally overwriting a WordPress site or trying to install on top of an existing one.  Extracting an archive on an existing site will overwrite existing files and intermix files causing site incompatibility issues.
+
+  It is highly recommended to place the installer and archive in an empty directory. If you have already manually extracted the archive file that is associated with this installer then choose option #1 below; other-wise consider the other options: Click &gt; Try Again &gt; Options &gt; choose "Manual Archive Extraction".Empty the directory except for the archive.zip/daf and installer.php and try again.Advanced users only can remove the existing wp-config.php file and try again.
+
