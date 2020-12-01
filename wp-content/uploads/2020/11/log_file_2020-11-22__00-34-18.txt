@@ -1,0 +1,221 @@
+
+---Downloaded files---
+The import files for: ReCart were successfully downloaded!
+Initial max execution time = 1000
+Files info:
+Site URL = https://balloonsd.com
+Data file = /var/www/balloonsd.com/wp-content/uploads/2020/11/demo-content-import-file_2020-11-22__00-34-18.xml
+Widget file = /var/www/balloonsd.com/wp-content/uploads/2020/11/demo-widgets-import-file_2020-11-22__00-34-18.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_display 1.6''
+[WARNING] Failed to import pa_display 10.1''
+[WARNING] Failed to import pa_display 10.5
+[WARNING] Failed to import pa_display 12''
+[WARNING] Failed to import pa_memory 128GB
+[WARNING] Failed to import pa_display 15''
+[WARNING] Failed to import pa_memory 16GB
+[WARNING] Failed to import pa_memory 256GB
+[WARNING] Failed to import pa_display 27''
+[WARNING] Failed to import pa_waterproof 3
+[WARNING] Failed to import pa_display 32''
+[WARNING] Failed to import pa_memory 32GB
+[WARNING] Failed to import pa_connectivity 3G
+[WARNING] Failed to import pa_display 4''
+[WARNING] Failed to import pa_display 49''
+[WARNING] Failed to import pa_connectivity 4G
+[WARNING] Failed to import pa_waterproof 5
+[WARNING] Failed to import pa_display 5.5''
+[WARNING] Failed to import pa_display 5.7''
+[WARNING] Failed to import pa_display 5''
+[WARNING] Failed to import pa_display 55''
+[WARNING] Failed to import pa_display 6.4''
+[WARNING] Failed to import pa_display 6''
+[WARNING] Failed to import pa_battery 60
+[WARNING] Failed to import pa_memory 64GB
+[WARNING] Failed to import pa_display 65''
+[WARNING] Failed to import pa_display 8''
+[WARNING] Failed to import pa_battery 80
+[WARNING] Failed to import pa_memory 8GB
+[WARNING] Failed to import pa_display 9.7''
+[WARNING] Failed to import pa_operation-system Android
+[WARNING] Failed to import store Apple
+[WARNING] Failed to import pa_connectivity Assisted GPS
+[WARNING] Failed to import product_cat Audio &amp; Television
+[WARNING] Failed to import pa_color Beige
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_connectivity Bluetooth 2.0
+[WARNING] Failed to import pa_connectivity Bluetooth 3.0
+[WARNING] Failed to import pa_connectivity Bluetooth 4.0
+[WARNING] Failed to import pa_connectivity Bluetooth 5.0
+[WARNING] Failed to import pa_color Brown
+[WARNING] Failed to import product_cat Camera &amp; Photo
+[WARNING] Failed to import pa_connectivity Cellular
+[WARNING] Failed to import product_cat Clothing &amp; Apparel
+[WARNING] Failed to import product_cat Computers &amp; IT Accessories
+[WARNING] Failed to import pa_color Dark Gray
+[WARNING] Failed to import product_cat Digital Cameras
+[WARNING] Failed to import pa_advanced-features DLNA Media Server Support
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_material getinax
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_connectivity GSM
+[WARNING] Failed to import product_cat Health &amp; Beauty
+[WARNING] Failed to import store Huawei
+[WARNING] Failed to import pa_connectivity IEEE 802.11ac
+[WARNING] Failed to import pa_connectivity IEEE 802.11n
+[WARNING] Failed to import pa_operation-system iOS
+[WARNING] Failed to import product_cat Jewelry &amp; Watches
+[WARNING] Failed to import product_cat Kid’s Fashion
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import pa_material Leather
+[WARNING] Failed to import store LG
+[WARNING] Failed to import pa_operation-system Linux
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_cat Man`s Watches
+[WARNING] Failed to import pa_material Metal
+[WARNING] Failed to import product_cat Monitors
+[WARNING] Failed to import product_cat MP3 &amp; MP4 Players
+[WARNING] Failed to import product_cat Networking Products
+[WARNING] Failed to import pa_material Nickel
+[WARNING] Failed to import product_cat Osmo Cameras
+[WARNING] Failed to import product_cat Outdoors &amp; Sports
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat PC &amp; Notebooks
+[WARNING] Failed to import product_cat Perfumer
+[WARNING] Failed to import product_cat Phones &amp; Accessories
+[WARNING] Failed to import product_cat Photo Accessories
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_material Plastic
+[WARNING] Failed to import pa_color Platinum
+[WARNING] Failed to import pa_advanced-features Quality of Service (QoS)
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat Router
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import store Samsung
+[WARNING] Failed to import product_cat Shoes
+[WARNING] Failed to import pa_color Silver
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smart Phones
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Speakers
+[WARNING] Failed to import product_cat Tablets &amp; Phablets
+[WARNING] Failed to import dealstore Test Store
+[WARNING] Failed to import product_cat TV Boxes
+[WARNING] Failed to import product_cat TV sets
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import pa_advanced-features UPnP™ Support
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_advanced-features WDS
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_connectivity Wi-Fi
+[WARNING] Failed to import pa_advanced-features Wi-Fi Multimedia (WMM)
+[WARNING] Failed to import pa_operation-system Windows
+[WARNING] Failed to import pa_connectivity Wire
+[WARNING] Failed to import product_cat Woman` Fashion
+[WARNING] Failed to import product_cat Woman`s Watches
+[WARNING] Failed to import store Xiaomi
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_size XXL
+[WARNING] Failed to import pa_size XXXL
+[WARNING] Failed to import product_cat Action Cameras
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Cycling
+[WARNING] Failed to import product_cat Fashion Jewelry
+[WARNING] Failed to import product_cat Hair Care
+[WARNING] Failed to import product_cat Phone Accessories
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Show only in singular pages - No Title - Imported
+ReHub: Ajax Tabs - No Title - Imported
+ReHub: Sticky on scroll - No Title - Imported
+
+Footer 1 : 
+
+Text - About Rehub - Imported
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+Text - Sign Up for Weekly Newsletter - Imported
+Image - No Title - Imported
+
+wooshopsidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_layered_nav - Color - Site does not support widget
+woocommerce_layered_nav - Memory - Site does not support widget
+woocommerce_layered_nav - Display Type - Site does not support widget
+woocommerce_layered_nav - Operation System - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+
+sidebarwooinner : Sidebar does not exist in theme (moving widget to Inactive)
+
+ReHub: Latest Woo Comparisons - Latest Comparisons - Imported to Inactive
+ReHub: Top Offers/Products - Top offers - Imported to Inactive
+
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Show only in singular pages - No Title - Widget already exists
+ReHub: Ajax Tabs - No Title - Widget already exists
+ReHub: Sticky on scroll - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - About Rehub - Widget already exists
+
+Footer 2 : 
+
+Text - No Title - Widget already exists
+
+Footer 3 : 
+
+Text - Sign Up for Weekly Newsletter - Widget already exists
+Image - No Title - Widget already exists
+
+Woocommerce shop sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Memory - Imported
+Filter Products by Attribute - Display Type - Imported
+Filter Products by Attribute - Operation System - Imported
+Filter Products by Rating - Average rating - Imported
+
+Woocommerce product sidebar : 
+
+ReHub: Latest Woo Comparisons - Latest Comparisons - Imported
+ReHub: Top Offers/Products - Top offers - Imported
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------HomePage was assigned-------
